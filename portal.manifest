@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3313678604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d69d7c632bf551c895bf5330a2c6c07e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57a03a1280f66bdf00eafc809f6cd2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42b3856fe5d2ecf439156ed61093c603, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca861b5d04ea0344c9cb05c92d3cd138, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24fa5c25242805a47a7cf2dcdc0b640f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ceb6c96a799d12c459f201526478262d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Portals.unity
+Dependencies: []
